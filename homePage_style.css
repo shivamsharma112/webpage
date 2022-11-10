@@ -1,0 +1,31 @@
+.nav{
+  margin-left: 200px;
+}
+.company-name{
+ text-transform: uppercase;
+ word-spacing: 5px;
+ 
+  
+}
+.ul{
+  margin-left: 150px;
+  color: gray;
+}
+.ul li{
+  margin-left: 10px;
+  
+}
+
+
+.left-contain{
+  margin-left: 180px;
+  
+}
+
+.h1{
+  color: white;
+  text-transform: uppercase;
+ margin-left: 20px;
+ 
+
+}
